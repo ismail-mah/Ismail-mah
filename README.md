@@ -22,6 +22,8 @@ Passionate about building **secure, scalable, and user-friendly web applications
 | **DevOps & Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,docker) |
 
 ---
+![](https://komarev.com)
+---
 
 ### 📈 GitHub Activity
 
