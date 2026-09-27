@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://github-view-counter.vercel.app/api?username=Ismail-mah" />
+</p>
+
 # Ismail M. Adam
 
 🚀 **Full-Stack Web Developer**
@@ -21,8 +25,6 @@ Passionate about building **secure, scalable, and user-friendly web applications
 | **Backend** | ![My Skills](https://skillicons.dev/icons?i=nodejs,py,django,mongodb) |
 | **DevOps & Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,docker) |
 
----
-![](https://github-view-counter.vercel.app/api?username=Ismail-mah)
 ---
 
 ### 📈 GitHub Activity
