@@ -30,7 +30,7 @@ Passionate about building **secure, scalable, and user-friendly web applications
 
 ### 📈 GitHub Activity
 
-<p align="center">
+<p align="inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=Ismail-mah&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true" alt="Ismail's GitHub Stats"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-mah&layout=compact&theme=onedark&hide_border=true" alt="Ismail's Top Languages"/>
